@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hi i am jason, i am an undergraduate student in Electrical and Computer Engineering (ECE) department of Technical University of Crete (TUC). I am currently working on my diploma thesis in hardware 
+security, my main fields of intereset lie on hardware.cybersecurity and computer networks. In addition i like participating in various CTF competitions and play challenges on CTF platforms.
+
 <!--
 **jason23g/jason23g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +19,12 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
+
+# Hardware 
+
+# Cybersecurity
+
+# Networks
 
 ## Contact
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white&maxAge=604800)](https://linkedin.com/in/iason-georgakas-11b62517a)
