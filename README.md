@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 
 ## Stats
 
-![](https://komarev.com/ghpvc/?username=jason23g)
+![](https://komarev.com/ghpvc/?username=jason23g&style=plastic)
