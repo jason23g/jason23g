@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 
 ![Xilinx Vivado IDE](https://img.shields.io/static/v1?label=&message=Xilinx%20Vivado%20IDE&color=E00000&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![Xilinx Vivado HLS](https://img.shields.io/static/v1?label=&message=Xilinx%20Vivado%20HLS&color=E00000&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
-![Xilinx Vitis IDE](https://img.shields.io/static/v1?label=&message=Xilinx%20Vitis%20IDE&color=E00000&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
-![Xilinx SDK](https://img.shields.io/static/v1?label=&message=Xilinx%20SDK&color=E00000&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
+![Petalinux](https://img.shields.io/static/v1?label=&message=Xilinx%20Vitis%20IDE&color=E00000&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![VHDL](https://img.shields.io/static/v1?label=&message=VHDL&color=FFA500&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![Verilog](https://img.shields.io/static/v1?label=&message=Verilog&color=FFA500&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![FPGA](https://img.shields.io/static/v1?label=&message=FPGA&color=FFA500&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
