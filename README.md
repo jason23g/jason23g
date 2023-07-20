@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=jason23g&style=plastic)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jason23g&theme=transparent)](https://git.io/streak-stats)
