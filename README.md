@@ -22,12 +22,19 @@ Here are some ideas to get you started:
 
 ### Hardware 
 
+#### Reconfigurable Hardware
 ![Xilinx Vivado IDE](https://img.shields.io/static/v1?label=&message=Xilinx%20Vivado%20IDE&color=E00000&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![Xilinx Vivado HLS](https://img.shields.io/static/v1?label=&message=Xilinx%20Vivado%20HLS&color=E00000&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![Petalinux](https://img.shields.io/static/v1?label=&message=Petalinux&color=E00000&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![VHDL](https://img.shields.io/static/v1?label=&message=VHDL&color=FFA500&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![Verilog](https://img.shields.io/static/v1?label=&message=Verilog&color=FFA500&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![FPGA](https://img.shields.io/static/v1?label=&message=FPGA&color=FFA500&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
+
+#### Embedded Systems
+![Raspberry Pi](https://img.shields.io/static/v1?label=&message=Raspberry%20Pi&color=C51A4A&style=for-the-badge&logo=Raspberry-Pi&logoColor=white&maxAge=604800)
+![Arduino](https://img.shields.io/static/v1?label=&message=Arduino&color=00979D&style=for-the-badge&logo=Arduino&logoColor=white&maxAge=604800)
+![Microchip AVR](https://img.shields.io/static/v1?label=&message=Atmel%20AVR&color=EE2A24&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
+![8051 Microcontroller](https://img.shields.io/static/v1?label=&message=8051%20Microcontroller&color=EE2A24&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 
 ### Cybersecurity
 
