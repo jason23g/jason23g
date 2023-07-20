@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Software
 
-![C](https://img.shields.io/static/v1?label=&message=C%2b&color=00599C&style=for-the-badge&logo=C&logoColor=white&maxAge=604800)
+![C](https://img.shields.io/static/v1?label=&message=C&color=00599C&style=for-the-badge&logo=C&logoColor=white&maxAge=604800)
 ![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=EE4C2C&style=for-the-badge&logo=Bash&logoColor=white&maxAge=604800)
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=for-the-badge&logo=Python&logoColor=white&maxAge=604800)
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=013243&style=for-the-badge&logo=Java&logoColor=white&maxAge=604800)
