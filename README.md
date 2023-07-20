@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ## Skills
 
 ## Contact
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[https://linkedin.com/in/iason-georgakas-11b62517a]
