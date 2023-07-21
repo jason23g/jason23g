@@ -1,4 +1,4 @@
-### About me 👋
+## About me 👋
 
 Hi i am jason, i am an undergraduate student in Electrical and Computer Engineering (ECE) department of Technical University of Crete (TUC). I am currently working on my diploma thesis in hardware 
 security, my main fields of intereset lie on hardware.cybersecurity and computer networks. In addition i like participating in various CTF competitions and play challenges on CTF platforms.
@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+
+## CTF Platforms
 
 
 ## Contact
