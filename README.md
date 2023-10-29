@@ -1,7 +1,7 @@
 ## About me 👋
 
 Hi i am jason, i am an undergraduate student in Electrical and Computer Engineering (ECE) department of Technical University of Crete (TUC). I am currently working on my diploma thesis in hardware 
-security, my main fields of intereset lie on hardware.cybersecurity and computer networks. In addition i like participating in various CTF competitions and play challenges on CTF platforms.
+security, my main fields of intereset lie on hardware,cybersecurity and computer networks. In addition i like participating in various CTF competitions and play challenges on CTF platforms. Furthermore i am open to contribute to open source projects related to FPGAs and embedded systems.
 
 <!--
 **jason23g/jason23g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
