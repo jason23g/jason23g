@@ -27,13 +27,15 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=for-the-badge&logo=Python&logoColor=white&maxAge=604800)
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=013243&style=for-the-badge&logo=Java&logoColor=white&maxAge=604800)
 ![Matlab](https://img.shields.io/static/v1?label=&message=Matlab&color=0076A8&style=for-the-badge&logo=Mathworks&logoColor=white&maxAge=604800)
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Cuda](https://img.shields.io/static/v1?label=&message=Cuda&color=FF6F00&style=for-the-badge&logo=Cuda&logoColor=white&maxAge=604800)
 
 ### Hardware 
 
+
 #### Reconfigurable Hardware
-![Xilinx Vivado IDE](https://img.shields.io/static/v1?label=&message=Xilinx%20Vivado%20IDE&color=E00000&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
-![Xilinx Vivado HLS](https://img.shields.io/static/v1?label=&message=Xilinx%20Vivado%20HLS&color=E00000&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
+![Xilinx Vivado IDE](https://img.shields.io/badge/Xilinx-E01F27.svg?style=for-the-badge&logo=Xilinx&logoColor=white)
+![Xilinx Vivado HLS](https://img.shields.io/badge/Xilinx-E01F27.svg?style=for-the-badge&logo=Xilinx&logoColor=white)
 ![Petalinux](https://img.shields.io/static/v1?label=&message=Petalinux&color=E00000&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![VHDL](https://img.shields.io/static/v1?label=&message=VHDL&color=FFA500&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![Verilog](https://img.shields.io/static/v1?label=&message=Verilog&color=FFA500&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
