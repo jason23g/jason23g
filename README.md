@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 
 #### Reconfigurable Hardware
-![Xilinx Vivado IDE](https://img.shields.io/badge/Xilinx-E01F27.svg?style=for-the-badge&logo=Xilinx&logoColor=white)
-![Xilinx Vivado HLS](https://img.shields.io/badge/Xilinx-E01F27.svg?style=for-the-badge&logo=Xilinx&logoColor=white)
+![Xilinx Vivado IDE](https://img.shields.io/badge/Xilinx-E01F27.svg?style=for-the-badge&logo=Xilinx_Vivado_IDE&logoColor=white)
+![Xilinx Vivado HLS](https://img.shields.io/badge/Xilinx-E01F27.svg?style=for-the-badge&logo=Xilin_Vitis_HLSx&logoColor=white)
 ![Petalinux](https://img.shields.io/static/v1?label=&message=Petalinux&color=E00000&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![VHDL](https://img.shields.io/static/v1?label=&message=VHDL&color=FFA500&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![Verilog](https://img.shields.io/static/v1?label=&message=Verilog&color=FFA500&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
