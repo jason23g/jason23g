@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 ![Microchip AVR](https://img.shields.io/static/v1?label=&message=Atmel%20AVR&color=EE2A24&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 ![8051 Microcontroller](https://img.shields.io/static/v1?label=&message=8051%20Microcontroller&color=EE2A24&style=for-the-badge&logo=&logoColor=white&maxAge=604800)
 
-### Cybersecurity
-
 ### Networks
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
 
@@ -56,6 +54,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+
+### Cybersecurity
 
 ## CTF Platforms
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
