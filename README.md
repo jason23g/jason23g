@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Skills
 
-### Software
+### tab Software
 
 ![C](https://img.shields.io/static/v1?label=&message=C&color=00599C&style=for-the-badge&logo=C&logoColor=white&maxAge=604800)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
